@@ -1,54 +1,55 @@
 # Resume
 
-README.md
-Unsaved changes
-You have unsaved changes on this file that can be restored.
-Resume
-/
-README.md
-in
-main
-
-Edit
-
-Preview
-Indent mode
-
-Spaces
-Indent size
-
-2
-Line wrap mode
-
-Soft wrap
-Editing README.md file contents
-Selection deleted
-1
-2
-
-README.md
-Unsaved changes
-You have unsaved changes on this file that can be restored.
-Resume
-/
-README.md
-in
-main
-
-Edit
-
-Preview
-Indent mode
-
-Spaces
-Indent size
-
-2
-Line wrap mode
-
-Soft wrap
-Editing README.md file contents
-Selection deleted
-1
-2
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>🎯 Yogeswaran's Resume</title>
+</head>
+<body>
+    <h1>Yogeswaran Panneerselvam</h1>
+    <img src="your-photo.jpg" alt="Yogeswaran's Photo" width="150">
+    
+    <h2>Summary</h2>
+    <ul>
+        <li>I am a college student learning web development and aiming to start freelancing.</li>
+    </ul>
+    
+    <hr/>
+    
+    <h2>Education</h2>
+    <ul>
+        <li>Doing B.Tech in CSE (AIML), Completed High School Degree.</li>
+    </ul>
+    
+    <hr/>
+    
+    <h2>Work Experience</h2>
+    <ul>
+        <li><h3>Fresher</h3></li>
+        <li>Currently seeking opportunities to start my professional journey.</li>
+    </ul>
+    
+    <hr/>
+    
+    <h2>Skills</h2>
+    <ul>
+        <li>Customer service: 🚀 🚀 🚀 🚀 🚀</li>
+        <li>Office Suite: ⭐️⭐️⭐️</li>
+        <li>Organizational skills: ⭐️⭐️⭐️⭐️</li>
+    </ul>
+    
+    <hr/>
+    
+    <h2>Others</h2>
+    <ul>
+        <li><a href="./abotme.html">About Me</a></li>
+        <li><a href="https://www.instagram.com/yogesh006660/" target="_blank">Contact Me</a></li>
+    </ul>
+    
+    <footer>
+        <p>© Yogeswaran. All rights reserved.</p>
+    </footer>
+</body>
+</html>
 
